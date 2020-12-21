@@ -454,13 +454,12 @@ Hero
 		grid-row: 1/1;
 		grid-column: 1 / span 8;
 	}
-	/*
+
 	.hero-img {
 		display: block;
 		grid-row: 1/1;
 		grid-column: 6/-1;
-  }
-  */
+	}
 }
 @media screen and (min-width: 1170px) {
 	.hero h4 {
