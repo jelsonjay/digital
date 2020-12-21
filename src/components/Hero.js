@@ -22,7 +22,7 @@ const Hero = () => {
   <div className='section-center hero-center'>
   <article className='hero-info'>
   <div>
-  <div className='underline'></div>
+
   <h1>Digital Company Software</h1>
   <h4>web developer & designer</h4>
   <Link to='/contact' className='btn'>

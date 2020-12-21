@@ -2,6 +2,7 @@ import React from "react"
 import Layout from "../components/Layout"
 import Hero from "../components/Hero"
 import Services from "../components/Services"
+import Work from "./work"
 import Technology from "./technologies"
 import About from "./about"
 import Contact from "./contact"
@@ -14,6 +15,7 @@ const IndexPage = () => {
       <Hero />
       <About />
       <Services />
+      <Work />
       <Technology />
       <Contact />
    </Layout>

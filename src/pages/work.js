@@ -1,10 +1,14 @@
 import React from 'react'
+import Title from '../components/Title'
 
 const work = () => {
   return (
-    <div>
-      Work
-    </div>
+
+    <>
+    <section className='project-page'>
+    <Title title='all projects'/>
+    </section>
+    </>
   )
 }
 
